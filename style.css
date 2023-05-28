@@ -1,0 +1,35 @@
+.hidden{
+   
+    background-color: bisque;
+}
+.color{
+    color: tomato;
+}
+div i {
+    margin-right: 20px;
+    size: 200px;
+    color: burlywood;
+}
+body {
+    background-image: url("./Image/8791f511b22d3b0abb8b52c575bff083.jpeg");
+}
+div .image{
+    background-repeat: no-repeat;
+    width: 10%;
+    height: 30px;
+}
+div h1{
+    color: rgb(237, 107, 64);
+    margin-left: 380px;
+    margin-top: 25px;
+    background-color: wheat;
+    width: 550px;
+}
+form{
+    background-color: chocolate;
+    width: 30%;
+    height: 200%;
+   margin-top: 5%;
+   margin-left: 30%;
+   border-radius: 20px;
+}
